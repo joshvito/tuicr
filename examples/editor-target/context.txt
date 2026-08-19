@@ -27,9 +27,9 @@ line 26 - base revision
 line 27 - base revision
 line 28 - base revision
 line 29 - base revision
-line 30 - base revision
-line 31 - base revision
-line 32 - base revision
+line 30 - CHANGED ON THE PR HEAD
+line 31 - CHANGED ON THE PR HEAD
+line 32 - CHANGED ON THE PR HEAD
 line 33 - base revision
 line 34 - base revision
 line 35 - base revision

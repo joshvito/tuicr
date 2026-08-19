@@ -35,3 +35,5 @@ The following individuals have write access to `tuicr`:
 The chair has final decision-making authority on project direction. Consistent,
 quality contributions (issues, pull request reviews and code submissions) are
 the path to committership, keep contributing and you may receive an invite!
+
+<!-- editor-target fixture: this line exists only on the PR head revision -->
