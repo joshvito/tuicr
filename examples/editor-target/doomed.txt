@@ -1,0 +1,3 @@
+this file exists only on the base branch
+the PR deletes it
+so the checkout never has a copy
